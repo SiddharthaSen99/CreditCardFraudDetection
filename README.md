@@ -10,5 +10,5 @@ Although in the real world, due to improved efficiency and higher complexity Neu
 Isolation Forest :  (https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html)
 Local Outlier Factor : (https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQxNzY2MTcyLC0xOTAzNTQ4NThdfQ==
+eyJoaXN0b3J5IjpbODQxNzY2MTcyXX0=
 -->
