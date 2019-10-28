@@ -27,8 +27,9 @@ These can be checked easily by importing the required libraries, and checking th
 
 ## Dataset
 
+The dataset used is the Credit Card Fraud Detection dataset available on Kaggl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwODY4OTY4LDg0MTc2NjE3Ml19
+eyJoaXN0b3J5IjpbLTE1NzcwNTM3MTksODQxNzY2MTcyXX0=
 -->
