@@ -14,9 +14,16 @@ Local Outlier Factor : (https://scikit-learn.org/stable/modules/generated/sklear
 ## Requirements
 
     Python : 3.7.3 (default, Mar 27 2019, 22:11:17)
-
+    [GCC 7.3.0]
+    Numpy : 1.16.2
+    Matplotlib : 3.0.3
+    Seaborn : 0.9.0
+    Scipy : 1.2.1
+    Sklearn : 0.20.3
+    
+  These can be checked easily
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQyMDg5MzAsODQxNzY2MTcyXX0=
+eyJoaXN0b3J5IjpbLTQwNjkwNjg1Niw4NDE3NjYxNzJdfQ==
 -->
