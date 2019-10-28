@@ -21,9 +21,14 @@ Local Outlier Factor : (https://scikit-learn.org/stable/modules/generated/sklear
     Scipy : 1.2.1
     Sklearn : 0.20.3
     
-  These can be checked easily
+  
+
+These can be checked easily by importing the required libraries, and checking their versions in a similar way as shown in Cell 1. 
+
+## Dataset
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjkwNjg1Niw4NDE3NjYxNzJdfQ==
+eyJoaXN0b3J5IjpbMjUwODY4OTY4LDg0MTc2NjE3Ml19
 -->
