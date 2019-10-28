@@ -34,28 +34,6 @@ The dataset used is the Credit Card Fraud Detection dataset available on Kaggle.
 This is what the plotted histograms look like :
 
 
-
-
-
-
-This is what the correlation matrix looks like :
-
-
-
-
-
-
-
-
-
-This is what the final result looks like :
-
-
-
-
-
-
-
 ![enter image description here](https://lh3.googleusercontent.com/-W_k5ROSqNym10yG4AvULvoGDIHMsnYpGOZuVBhUrRgOzUH4S55KZRsxxCoTUQrHtKORl7Y-Xi6-Dw)
 
 
@@ -81,5 +59,5 @@ As it is prominent from the results, both the algorithms achieve a high accuracy
 1. Isolation Forest algorithm is relatively better than Local Outlier Factor algorithm for anomaly detection (in this case, fraud detection)
 2. The reason we have been achieving such high accuracies despite having such low f1-scores is solely due to the fact that the number of valid transactions are much more than the number of invalid transactions. This is understandable as in the real world, we can expect more valid transactions than invalid transactions. When the number of invalid transaction become significantly high, both of thee algorithms will not be preferred anymore and the ideal solution in such a scenario would be to use Neural Networks.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyMDE1Nzg3LDE2Mjk2Nzc2MjNdfQ==
+eyJoaXN0b3J5IjpbLTE3MjAzNTUzOTldfQ==
 -->
