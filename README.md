@@ -32,13 +32,34 @@ The dataset used is the Credit Card Fraud Detection dataset available on Kaggle.
 ## Results
 
 This is what the plotted histograms look like :
-![enter image description here](https://lh3.googleusercontent.com/Y0XUgVkreJirakS1PEyADXYi2BjcsZogMt9IcCJtaFUIrrpqWf-5VQZzjh0a8VEL8m2o3uNHY_CfqA)
+
+
+
+
+
 
 This is what the correlation matrix looks like :
-![enter image description here](https://lh3.googleusercontent.com/xlZ1St9-OgueV_ua4q6Ea-ivtMyA1vEkau5MVXOH4l0ipPYLSOan3F0GQpehJTkADgbL-llk4nQQCw)
+
+
+
+
+
+
+
+
 
 This is what the final result looks like :
-![enter image description here](https://lh3.googleusercontent.com/nine8jvj9TZ7D6wfhmWR0Ccx9SqrJGlaLGRr0f6x5FlrKnSochm3I4lMXoUjzz-bLy1N4stVU1X1NA)
+
+
+
+
+
+
+
+
+
+
+
 
 As it is prominent from the results, both the algorithms achieve a high accuracy (99.6% and 99.7%). However, their f1- scores are very low for the invalid transactions. While it is 0.30 for isolation forest, it is an astonishingly low 0.03 for local outlier factor algorithm. This suggests two things:
 1. Isolation Forest algorithm is relatively better than Local Outlier Factor algorithm for anomaly detection (in this case, fraud detection)
