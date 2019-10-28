@@ -32,9 +32,9 @@ The dataset used is the Credit Card Fraud Detection dataset available on Kaggle.
 ## Results
 
 This is what the histograms look like :
-
+![enter image description here(https://lh3.googleusercontent.com/Y0XUgVkreJirakS1PEyADXYi2BjcsZogMt9IcCJtaFUIrrpqWf-5VQZzjh0a8VEL8m2o3uNHY_CfqA)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDU2ODUxNSw4NDE3NjYxNzJdfQ==
+eyJoaXN0b3J5IjpbLTE1ODU1Mzg5MzksODQxNzY2MTcyXX0=
 -->
