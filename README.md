@@ -27,7 +27,9 @@ These can be checked easily by importing the required libraries, and checking th
 
 ## Dataset
 
-The dataset used is the Credit Card Fraud Detection dataset available on Kaggle. You can also download it from the creditcard.csv file uploaded along with the code. The actual dataset consists of 284807 rows and 31 columns. Due to computational costs, only a small fraction(30%) of the dataset has been used.
+The dataset used is the Credit Card Fraud Detection dataset available on Kaggle. Since it exceeded the size limit of 25MB it could not be uploaded. But the link has been provided below. Also,the actual dataset consists of 284807 rows and 31 columns. Due to computational costs, only a small fraction(30%) of the dataset has been used.
+
+Link : https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 ## Results
 
