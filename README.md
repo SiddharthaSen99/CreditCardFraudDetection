@@ -7,8 +7,16 @@ Credit Card Fraud Detection is one of the major applications of Machine Learning
 ## Algorithms Used
 
 Although in the real world, due to improved efficiency and higher complexity Neural Networks are the preferred choice, in this project I have taken a different approach. Rather, two different approaches. The algorithms used in this project are Isolation Forest and Local Outlier Factor for anomaly detection. Both these have been implemented separately and their efficiencies have been compared at the end. More information on these algorithms can be found on the scikit learn website.
+
 Isolation Forest :  (https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html)
 Local Outlier Factor : (https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html) 
+
+## Requirements
+
+    Python : 3.7.3 (default, Mar 27 2019, 22:11:17)
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQxNzY2MTcyXX0=
+eyJoaXN0b3J5IjpbLTE4NjQyMDg5MzAsODQxNzY2MTcyXX0=
 -->
