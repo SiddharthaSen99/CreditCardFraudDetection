@@ -31,10 +31,11 @@ The dataset used is the Credit Card Fraud Detection dataset available on Kaggle.
 
 ## Results
 
-This is what the histograms look like :
-![enter image description here(https://lh3.googleusercontent.com/Y0XUgVkreJirakS1PEyADXYi2BjcsZogMt9IcCJtaFUIrrpqWf-5VQZzjh0a8VEL8m2o3uNHY_CfqA)
+This is what the plotted histograms look like :
+![enter image description here](https://lh3.googleusercontent.com/Y0XUgVkreJirakS1PEyADXYi2BjcsZogMt9IcCJtaFUIrrpqWf-5VQZzjh0a8VEL8m2o3uNHY_CfqA)
 
-
+This is what the correlation matrix looks like :
+![enter image description here](https://lh3.googleusercontent.com/xlZ1St9-OgueV_ua4q6Ea-ivtMyA1vEkau5MVXOH4l0ipPYLSOan3F0GQpehJTkADgbL-llk4nQQCw)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODU1Mzg5MzksODQxNzY2MTcyXX0=
+eyJoaXN0b3J5IjpbMTM1MTM2MDc0OCw4NDE3NjYxNzJdfQ==
 -->
