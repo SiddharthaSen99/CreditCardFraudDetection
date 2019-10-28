@@ -40,7 +40,7 @@ This is what the correlation matrix looks like :
 This is what the final result looks like :
 ![enter image description here](https://lh3.googleusercontent.com/nine8jvj9TZ7D6wfhmWR0Ccx9SqrJGlaLGRr0f6x5FlrKnSochm3I4lMXoUjzz-bLy1N4stVU1X1NA)
 
-As it is prominent f
+As it is prominent from the results, both the algorithms achieve a high accuracy (99.6% and 99.7%). However, their f1- scores are very low for the invalid transactions. While it is 0.30 for isolation forest, it 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjA5MTk0ODgsODQxNzY2MTcyXX0=
+eyJoaXN0b3J5IjpbLTM5NDIwNTExMCw4NDE3NjYxNzJdfQ==
 -->
