@@ -65,5 +65,5 @@ As it is prominent from the results, both the algorithms achieve a high accuracy
 1. Isolation Forest algorithm is relatively better than Local Outlier Factor algorithm for anomaly detection (in this case, fraud detection)
 2. The reason we have been achieving such high accuracies despite having such low f1-scores is solely due to the fact that the number of valid transactions are much more than the number of invalid transactions. This is understandable as in the real world, we can expect more valid transactions than invalid transactions. When the number of invalid transaction become significantly high, both of thee algorithms will not be preferred anymore and the ideal solution in such a scenario would be to use Neural Networks.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTY3NzYyMywtMTQ2ODQwNTYyMV19
+eyJoaXN0b3J5IjpbMTYyOTY3NzYyM119
 -->
