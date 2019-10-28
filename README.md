@@ -27,9 +27,14 @@ These can be checked easily by importing the required libraries, and checking th
 
 ## Dataset
 
-The dataset used is the Credit Card Fraud Detection dataset available on Kaggle. You can also download it from the creditcard.csv file uploaded along with the code. The actual dataset consists of 284807 rows and 3 columns. Due to computational costs, only a s
+The dataset used is the Credit Card Fraud Detection dataset available on Kaggle. You can also download it from the creditcard.csv file uploaded along with the code. The actual dataset consists of 284807 rows and 31 columns. Due to computational costs, only a small fraction(30%) of the dataset has been used.
+
+## Results
+
+This is what the histograms look like :
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTIwOTM3Miw4NDE3NjYxNzJdfQ==
+eyJoaXN0b3J5IjpbMTE3NDU2ODUxNSw4NDE3NjYxNzJdfQ==
 -->
