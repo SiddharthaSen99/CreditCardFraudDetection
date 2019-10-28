@@ -6,9 +6,9 @@ Credit Card Fraud Detection is one of the major applications of Machine Learning
 
 ## Algorithms Used
 
-Although in the real world, due to improved efficiency and higher complexity Neural Networks are the preferred choice, in this project I have taken a different approach. Rather, two different approaches. The algorithms used in this project are Isolation Forest and Local Outlier Classifier for anomaly detection. Both these have been implemented separately and their efficiencies have been compared at the end. More information on these algorithms can be found on the scikit learn website.
-Isolation Forest :  
-
+Although in the real world, due to improved efficiency and higher complexity Neural Networks are the preferred choice, in this project I have taken a different approach. Rather, two different approaches. The algorithms used in this project are Isolation Forest and Local Outlier Factor for anomaly detection. Both these have been implemented separately and their efficiencies have been compared at the end. More information on these algorithms can be found on the scikit learn website.
+Isolation Forest :  (https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html)
+Local Outlier Factor : (https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNDk0OTU4MywtMTkwMzU0ODU4XX0=
+eyJoaXN0b3J5IjpbODQxNzY2MTcyLC0xOTAzNTQ4NThdfQ==
 -->
