@@ -1,5 +1,7 @@
 # CreditCardFraudDetection
-Credit Card Fraud Detection using Isolation Forest and Local Outlier factor algorithmsis a major application of Machine Learning in
+
+## Introduction
+Credit Card Fraud Detection is one of the major applications of Machine Learning in the modern world.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI5OTc3OTMwXX0=
+eyJoaXN0b3J5IjpbMjIzNjMyNzQ4XX0=
 -->
